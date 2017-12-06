@@ -1,6 +1,6 @@
 # alpine-node-mapnik
 
-Minimal Docker image build on Alpine Linux with Node.
+Minimal Docker image built on Alpine Linux with Node.
 
 # Image contents
 - Base image is `mhart/alpine-node:latest`
